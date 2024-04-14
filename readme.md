@@ -2,7 +2,7 @@
 
 A lightweight and accessible JavaScript/CSS implementation of Google-inspired accordion dropdowns, focused on smooth animations and user experience. Try Googling something like [how to grow an avocado stone in water](https://www.google.com/search?q=how+to+grow+an+avocado+stone+in+water) and you'll see a 'People also ask' section.
 
-[Live demo](https://danedwardsdeveloper.github.io/google-style-accordion-dropdowns/)
+<a href="https://danedwardsdeveloper.github.io/google-style-accordion-dropdowns/" target="_blank">Live demo</a>
 
 ![Google-style accordion GIF demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdncms1MGpuaDluNW5uY21oY2Z4OXN0cmVsY2Y4enVlZDlqbzltNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6kBytkO0LDrbh2vCYC/giphy.gif)
 
